@@ -1,0 +1,1 @@
+alert("Reply Game Saytı Sərfəli çibinizə uyğun olan alım satım saytıdı.")
